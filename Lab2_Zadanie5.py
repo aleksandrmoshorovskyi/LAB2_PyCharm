@@ -7,5 +7,5 @@ print('''Jaką operację chcesz wykonać?
 
 dzialanie = int(input("Wpisz numer operacji"))
 arg1 = float(input('Podaj argument 1: '))
-ar12 = float(input('Podaj argument 2: '))
+arg2 = float(input('Podaj argument 2: '))
 
