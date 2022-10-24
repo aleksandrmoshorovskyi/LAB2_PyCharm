@@ -5,3 +5,7 @@ print('''Jaką operację chcesz wykonać?
 4) dzielenie
 5) potęgowanie''')
 
+dzialanie = int(input("Wpisz numer operacji"))
+arg1 = float(input('Podaj argument 1: '))
+ar12 = float(input('Podaj argument 2: '))
+
